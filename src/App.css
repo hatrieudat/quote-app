@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@600&family=Volkhov&display=swap');
+@import url(css/quote-section.css);
+@import url(css/action-section.css);
+* {
+  box-sizing: border-box;
+}
+main {    
+  padding-top: 1em;
+  position: relative;
+}
+fieldset {
+  margin: 0 auto;
+  width: 50%;
+  border-radius: .8em;
+  padding: 2em 2em 1.5em;
+  border: .2em solid green;
+}
+legend {
+  position: absolute;
+  font-size: 3rem;
+  background-color: green;
+  color: #ffff;
+  height: 65px;
+  width: 40px;
+  top: .2em;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-bottom: 15px solid #ffff;
+  border-radius: 5px 5px 0 0;
+}
+
+legend span {
+  position: absolute;
+  left: -0.22em;
+  top: .1em;
+}

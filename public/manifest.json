@@ -1,0 +1,15 @@
+{
+  "short_name": "Random Quote Machine",
+  "name": "Create Random Quote React App",
+  "icons": [
+    {
+      "src": "Random-Quote-Machine_ICON.png",
+      "sizes": "54x65",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

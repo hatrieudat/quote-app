@@ -1,0 +1,31 @@
+#quote {
+  text-align: center;
+  margin: 3.2em 0;
+}
+
+.animation {
+  animation: fadeIn ease 1.5s;
+}
+
+#text {
+  font-family: 'Gothic A1', sans-serif;
+  font-size: 1.2em;
+  margin: 0 1em;
+}
+
+#author {
+  font-family: 'Volkhov', serif;
+  color: #0f0f0f;
+  opacity: .8;
+  font-size: .8em;
+  margin-top: .2em;
+}
+
+#action {
+  text-align: right;
+}
+
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}

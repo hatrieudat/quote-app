@@ -1,0 +1,21 @@
+#action a {
+    text-decoration: none;
+    margin: 0 1.4em;
+    font-weight: bold;
+  }
+  
+  #action a:hover {
+    color:rgba(255, 0, 221, 0.884)
+  }
+  
+  .btn {
+    color: rgb(144, 18, 194);
+    padding: .3em;
+  }
+  
+  .btn:hover {
+    border-top: .3em double green;
+    border-bottom: .3em double green;
+    transition: .5s;
+  }
+  
