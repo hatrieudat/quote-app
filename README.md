@@ -1,4 +1,8 @@
-# Build a Random Quote Machine
+# Build a Random Quote Machine with React.js
+
+In this project, build a random quote generator that displays a random quote to the user every time they press a button.
+
+Demo: [Quote App](http://quote-app-reactjs.surge.sh)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
